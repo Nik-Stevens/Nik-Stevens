@@ -17,7 +17,7 @@ Hello, I'm Nicolas but you can call me NIK!
 🚩 Interested in growing my professional profile and contributing my knowledge to the teams
 </pre>
 <hr>
-https://www.linkedin.com/in/nikstevens/
+
 ## 🤝 Connect with me
 
 <p align="center">
