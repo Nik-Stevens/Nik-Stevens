@@ -15,13 +15,13 @@ Hello, I'm Nicolas but you can call me NIK!
 <hr>
 
 <pre>
-💻 I am mainly a Systems Engineer.
-📚 I am developer in videogames, I usually work with Unity and Unreal Engine 5.
-📝 I have a strong interest in Software Engineering and Design.
-🛠️ If there is something I can't handle, I investigate it and solve it.
-🌱 I have experience as a QA Tester and experience with automation processes 
-🌟 Main language: C# and C++ 😁
-🚩 Interested in growing my professional profile and contributing my knowledge to the teams
+- 💻 I am mainly a Systems Engineer.
+- 📚 I am developer in videogames, I usually work with Unity and Unreal Engine 5.
+- 📝 I have a strong interest in Software Engineering and Design.
+- 🛠️ If there is something I can't handle, I investigate it and solve it.
+- 🌱 I have experience as a QA Tester and experience with automation processes 
+- 🌟 Main language: C# and C++ 😁
+- 🚩 Interested in growing my professional profile and contributing my knowledge to the teams
 </pre>
 <hr>
 
