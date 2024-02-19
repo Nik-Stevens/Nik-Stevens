@@ -2,7 +2,7 @@
   
 [this is for the picture]: #	
 <div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="100"/>
 </div>
 
 <h1 align="center">
