@@ -32,3 +32,5 @@ Hello, I'm Nicolas but you can call me NIK!
 	<a href="https://www.linkedin.com/in/nikstevens/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/nik0stevens/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
